@@ -1,1 +1,3 @@
 # Simulate-Digital-to-Digital-encoding-and-decoding-scheme-using-socket-programming
+
+This needs to use two computers.  One computer will act as sender and another will be receiver. The sender will take a text file as input and will convert into a digital signal (type of signal will be taken as input. This signal (in terms of amplitude value) will be sent to the receiver and this computer will decode the text file and find out the percentage of error. ). There will be a fixed time interval t (taken as input). However the actual time interval will vary within a small range to simulate the synchronization problem.
